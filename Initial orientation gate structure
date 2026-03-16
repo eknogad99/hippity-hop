@@ -1,0 +1,22 @@
+orientation-gate/
+│
+├── README.md
+│
+├── gate/
+│   ├── __init__.py
+│   ├── orientation_gate.py
+│
+├── objectives/
+│   ├── registry.py
+│
+├── policies/
+│   ├── corpus/
+│   │   └── example_policy.txt
+│   ├── matcher.py
+│
+├── demo/
+│   └── demo_lock_signal.py
+│
+├── experiments/
+│
+└── requirements.txt
