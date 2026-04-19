@@ -1,4 +1,4 @@
-# Orientation Gate
+# Hippity-Hop
 
 Orientation Gate is a structural reliability primitive for AI systems.
 
