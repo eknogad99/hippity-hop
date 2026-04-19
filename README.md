@@ -1,6 +1,6 @@
 # Hippity-Hop
 
-Orientation Gate is a structural reliability primitive for AI systems.
+Hippity-Hop is a structural reliability primitive for AI systems.
 
 It verifies that model outputs remain aligned with declared objectives
 and policy constraints before an action is executed.
